@@ -1,6 +1,6 @@
 ## Hi there 👋<br>
 
-I'm 21 years old Brazillian and currently I'm attending Analysis and Systems Development Degree 👨‍💻 <br>
+I'm a 21 years old Brazillian and currently I'm attending Analysis and Systems Development Degree 👨‍💻 <br>
 • Studying Angular and Spring Boot 📚☕ <br>
 • Love Games (RPG) and Music. 🎮🎵<br>
   
